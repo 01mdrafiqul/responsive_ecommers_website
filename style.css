@@ -1,6 +1,9 @@
-.htt{
-  color: blue !impotant;
+.header-bg-color{
+background-color:beige;
 }
-p{
-  font-size: larger;
+.button{
+  background-color: olivedrab;
+  border-radius: 8px;
+  border: 0;
+  color: white;
 }
