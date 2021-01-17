@@ -7,3 +7,11 @@ background-color:beige;
   border: 0;
   color: white;
 }
+.shop{
+  height:500px;
+}
+.image{
+  height: 250px;
+  border-radius: 10px;
+}
+
